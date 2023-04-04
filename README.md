@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying on **Instituto Tecnológico de Zacatepec**
 
-- 🌱 I’m currently learning **JavaScript, Node.js and CSS**
+- 🌱 I’m currently learning **JavaScript, Node.js and Python**
 
 - 👯 I’m looking to collaborate in **software development companies**
 
