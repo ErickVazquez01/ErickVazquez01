@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently studying on **Instituto Tecnológico de Zacatepec**
 
-- 🌱 I’m currently learning **JavaScript, Flutter, Node.js and Python**
-
-- 👯 I’m looking to collaborate in **software development companies**
+- 🌱 I’m currently learning **JavaScript, Vue, Tailwind and API**
 
 - 🤝 I’m looking for help with **advancing my technology skills in the workplace**
 
